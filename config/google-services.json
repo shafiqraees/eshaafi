@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783284055486",
+    "firebase_url": "https://eshaafi-93388.firebaseio.com",
+    "project_id": "eshaafi-93388",
+    "storage_bucket": "eshaafi-93388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783284055486:android:4258e406e32e90a7b11def",
+        "android_client_info": {
+          "package_name": "com.eshaafi.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783284055486-4h3daa57cand0vvpoj86ot0ubcbnnv42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshaafi.patient",
+            "certificate_hash": "d0d3e7a53a4b7f03fc2f43606a7b346f1a6024aa"
+          }
+        },
+        {
+          "client_id": "783284055486-foo1do2j8indm8lqpiptcbh6djdkvped.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhEhr2J3SeQA5K3gPnin5o1KDgYbvZUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783284055486-foo1do2j8indm8lqpiptcbh6djdkvped.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
